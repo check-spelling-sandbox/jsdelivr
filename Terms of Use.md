@@ -36,7 +36,7 @@ To maintain the performance and security of jsDelivr CDN, we have various limits
 - maximum size of a single package,
 - blocking of certain file extensions.
 
-When requesting a resource that does not meet these limits, you will get an error response indicating the reason. The limits are set considerably higher than needed for most projects and may be further increased or removed for legitimate projects on request.
+When requesting a resource that does not meet these limits, you will get an error response indicating the reason. The limits are set considerably beyond what most projects need but may be further increased or removed for legitimate projects on request.
 
 ## 5. Soft Limits and Recommendations (jsDelivr CDN)
 
