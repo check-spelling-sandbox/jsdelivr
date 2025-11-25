@@ -35,7 +35,7 @@ body:
       label: Information
       description: The following information is needed for us to define the problem.
       value: |
-        - Device OS: [e.g. iOS, Windows, MacOS]
+        - Device OS: [e.g. iOS, Windows, macOS]
         - Browser & Version: [e.g. Chrome 103, Safari 8, Firefox 108]
         - VPN provider (if you use one)
         - Your location (country/region)
