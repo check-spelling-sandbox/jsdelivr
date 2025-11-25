@@ -2,7 +2,7 @@
 
 *Effective date: November 23, 2023*
 
-Volentio JSD Limited ("us", "we", or "our"), a company registered in England and Wales, operates the cdn.jsdelivr.net service ("jsDelivr CDN")) and the *jsdelivr.com* website ("Website") (collectively, the Services).
+Volentio JSD Limited ("us", "we", or "our"), a company registered in England and Wales, operates the cdn.jsdelivr.net service ("jsDelivr CDN") and the *jsdelivr.com* website ("Website") (collectively, the Services).
 
 When we collect, use, and process personal data, we are subject to the provisions of the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. We are also subject to the EU General Data Protection Regulation (EU GDPR) in relation to personal data we collect, use, and process in the European Economic Area (EEA).
 
