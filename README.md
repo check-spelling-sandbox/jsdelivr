@@ -51,7 +51,7 @@ We do everything possible to ensure our CDN will NEVER break any websites, regar
 
 This includes dynamic endpoints such as `/npm/`, `/gh/` and `/combine/`. When a file is first accessed, it gets permanently stored in a reliable file system. This means that even if a npm package gets deleted or an existing file gets removed by a developer, jsDelivr will  continue to serve the stored copy forever without breaking any websites or causing any issues.
 
-On top of that, we also do version fallback. This means that if a file used in version 1.0.1 is no longer available in 1.0.2 and a user requests the non-existent file, we will fall back to the previous 1.0.1 version and serve it instead of failing with a 404 error.
+On top of that, we also do version fallback. This means that if a file used in version 1.0.1 is no longer available in 1.0.2 and a user requests the nonexistent file, we will fall back to the previous 1.0.1 version and serve it instead of failing with a 404 error.
 
 
 Multi-CDN
