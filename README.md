@@ -305,7 +305,7 @@ Restrictions
 WordPress
 ---------
 
-Our WordPress endpoint works for plugins and themes hosted in the [WordPress.org plugin directory](https://WordPress.org/plugins) and [Wordpress.org theme directory](https://wordpress.org/themes/), and mirrors [the WordPress.org plugins SVN repo](https://plugins.svn.wordpress.org/).
+Our WordPress endpoint works for plugins and themes hosted in the [WordPress.org plugin directory](https://wordpress.org/plugins) and [WordPress.org theme directory](https://wordpress.org/themes/), and mirrors [the WordPress.org plugins SVN repo](https://plugins.svn.wordpress.org/).
 
 ##### Load any plugin from the WordPress.org plugins SVN repo:
 ```
